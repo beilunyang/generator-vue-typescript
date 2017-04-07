@@ -47,7 +47,6 @@ module.exports = class extends Generator {
       'config',
       'src',
       '.editorconfig',
-      '.gitignore',
       '.tslint.json',
       'tsconfig.json',
       'webpack.config.js',
