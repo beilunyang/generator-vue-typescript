@@ -1,0 +1,24 @@
+{
+  "name": "generator-vue-typescript",
+  "version": "0.0.1",
+  "description": "Yeoman generator for Vue with TypeScript",
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "vue",
+    "typescript"
+  ],
+  "repository": "https://github.com/beilunyang/generator-vue-typescript.git",
+  "author": "beilunyang",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.1.3",
+    "eslint-plugin-import": "^2.2.0"
+  },
+  "dependencies": {
+    "yeoman-generator": "^1.1.1"
+  }
+}
